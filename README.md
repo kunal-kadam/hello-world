@@ -1,5 +1,5 @@
-# hello-world
-Trial repository for getting use to with github
+# Music
+Trial repository for getting use to with Github
 
 Music is a vital part of different moments of human life. 
 It spreads happiness and joy in a person’s life. 
